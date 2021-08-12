@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "5. Longest Palindromic Substring": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    },
+    "6. ZigZag Conversion": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\cwlim.MIS-LT10-L3\\source\\repos\\ConsoleApp1\\6. ZigZag Conversion"
+    }
+  }
+}
