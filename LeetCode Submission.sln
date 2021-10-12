@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "704. Binary Search", "704. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "278. First Bad Version", "278. First Bad Version\278. First Bad Version.csproj", "{CAABD5D9-11F5-4615-9938-50DA44582E5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35. Search Insert Position", "35. Search Insert Position\35. Search Insert Position.csproj", "{6592374B-9AD3-4F53-A442-D53F3EB98F40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{CAABD5D9-11F5-4615-9938-50DA44582E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAABD5D9-11F5-4615-9938-50DA44582E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAABD5D9-11F5-4615-9938-50DA44582E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6592374B-9AD3-4F53-A442-D53F3EB98F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6592374B-9AD3-4F53-A442-D53F3EB98F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6592374B-9AD3-4F53-A442-D53F3EB98F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6592374B-9AD3-4F53-A442-D53F3EB98F40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
