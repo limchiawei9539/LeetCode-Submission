@@ -39,6 +39,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "543. Diameter of Binary Tre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "374. Guess Number Higher or Lower", "374. Guess Number Higher or Lower\374. Guess Number Higher or Lower.csproj", "{7B024DFC-E6A3-42FF-839A-C2C97F48C5F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "704. Binary Search", "704. Binary Search\704. Binary Search.csproj", "{BC69D054-D592-40C3-9A27-38934FDE3699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "278. First Bad Version", "278. First Bad Version\278. First Bad Version.csproj", "{CAABD5D9-11F5-4615-9938-50DA44582E5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{7B024DFC-E6A3-42FF-839A-C2C97F48C5F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B024DFC-E6A3-42FF-839A-C2C97F48C5F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B024DFC-E6A3-42FF-839A-C2C97F48C5F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC69D054-D592-40C3-9A27-38934FDE3699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC69D054-D592-40C3-9A27-38934FDE3699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC69D054-D592-40C3-9A27-38934FDE3699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC69D054-D592-40C3-9A27-38934FDE3699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAABD5D9-11F5-4615-9938-50DA44582E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAABD5D9-11F5-4615-9938-50DA44582E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAABD5D9-11F5-4615-9938-50DA44582E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAABD5D9-11F5-4615-9938-50DA44582E5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
