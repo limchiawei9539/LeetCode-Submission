@@ -37,13 +37,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "463. Island Perimeter", "46
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "543. Diameter of Binary Tree", "543. Diameter of Binary Tree\543. Diameter of Binary Tree.csproj", "{63D2C6E1-9DEA-4D41-8646-065B86B847E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "374. Guess Number Higher or Lower", "374. Guess Number Higher or Lower\374. Guess Number Higher or Lower.csproj", "{7B024DFC-E6A3-42FF-839A-C2C97F48C5F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "374. Guess Number Higher or Lower", "374. Guess Number Higher or Lower\374. Guess Number Higher or Lower.csproj", "{7B024DFC-E6A3-42FF-839A-C2C97F48C5F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "704. Binary Search", "704. Binary Search\704. Binary Search.csproj", "{BC69D054-D592-40C3-9A27-38934FDE3699}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "704. Binary Search", "704. Binary Search\704. Binary Search.csproj", "{BC69D054-D592-40C3-9A27-38934FDE3699}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "278. First Bad Version", "278. First Bad Version\278. First Bad Version.csproj", "{CAABD5D9-11F5-4615-9938-50DA44582E5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "278. First Bad Version", "278. First Bad Version\278. First Bad Version.csproj", "{CAABD5D9-11F5-4615-9938-50DA44582E5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35. Search Insert Position", "35. Search Insert Position\35. Search Insert Position.csproj", "{6592374B-9AD3-4F53-A442-D53F3EB98F40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "35. Search Insert Position", "35. Search Insert Position\35. Search Insert Position.csproj", "{6592374B-9AD3-4F53-A442-D53F3EB98F40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "977. Squares of a Sorted Array", "977. Squares of a Sorted Array\977. Squares of a Sorted Array.csproj", "{8B207E99-32AF-4F1E-80C2-2D6E46DC68AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "189. Rotate Array", "189. Rotate Array\189. Rotate Array.csproj", "{27AE02B0-BC82-445F-9CA6-EFBADCD34BEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +139,14 @@ Global
 		{6592374B-9AD3-4F53-A442-D53F3EB98F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6592374B-9AD3-4F53-A442-D53F3EB98F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6592374B-9AD3-4F53-A442-D53F3EB98F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B207E99-32AF-4F1E-80C2-2D6E46DC68AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B207E99-32AF-4F1E-80C2-2D6E46DC68AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B207E99-32AF-4F1E-80C2-2D6E46DC68AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B207E99-32AF-4F1E-80C2-2D6E46DC68AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27AE02B0-BC82-445F-9CA6-EFBADCD34BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27AE02B0-BC82-445F-9CA6-EFBADCD34BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27AE02B0-BC82-445F-9CA6-EFBADCD34BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27AE02B0-BC82-445F-9CA6-EFBADCD34BEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
