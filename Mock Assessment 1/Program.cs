@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Mock_Assessment_1
+namespace _290._Word_Pattern
 {
     class Program
     {

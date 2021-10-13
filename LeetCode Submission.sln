@@ -25,7 +25,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8. String to Integer (atoi)
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1448. Count Good Nodes in Binary Tree", "1448. Count Good Nodes in Binary Tree\1448. Count Good Nodes in Binary Tree.csproj", "{9A62516A-E977-4542-B898-604EA067BA5A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mock Assessment 1", "Mock Assessment 1\Mock Assessment 1.csproj", "{EF501853-CFBD-4991-9B51-E2F75918E5B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "290. Word Pattern", "Mock Assessment 1\290. Word Pattern.csproj", "{EF501853-CFBD-4991-9B51-E2F75918E5B8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Regular Expression Matching", "10. Regular Expression Matching\10. Regular Expression Matching.csproj", "{16043A1A-7B11-43C6-9863-61EE009ADB2F}"
 EndProject
