@@ -60,6 +60,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "279. Perfect Squares", "279
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "283. Move Zeroes", "283. Move Zeroes\283. Move Zeroes.csproj", "{DC4D8C60-1FDF-4159-987A-C7A32918E47D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "167. Two Sum II - Input array is sorted", "167. Two Sum II - Input array is sorted\167. Two Sum II - Input array is sorted.csproj", "{192CFE1B-89EC-4146-AD5B-0D13D3480063}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -170,6 +172,10 @@ Global
 		{DC4D8C60-1FDF-4159-987A-C7A32918E47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC4D8C60-1FDF-4159-987A-C7A32918E47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC4D8C60-1FDF-4159-987A-C7A32918E47D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{192CFE1B-89EC-4146-AD5B-0D13D3480063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192CFE1B-89EC-4146-AD5B-0D13D3480063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192CFE1B-89EC-4146-AD5B-0D13D3480063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192CFE1B-89EC-4146-AD5B-0D13D3480063}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
