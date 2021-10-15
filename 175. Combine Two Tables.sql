@@ -1,0 +1,1 @@
+﻿select T0.FirstName, T0.LastName, T1.City, T1.State from Person T0 left join Address T1 on T1.PersonId = T0.PersonId;

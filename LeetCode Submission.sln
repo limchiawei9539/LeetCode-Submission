@@ -68,6 +68,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "344. Reverse String", "344.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "557. Reverse Words in a String III", "557. Reverse Words in a String III\557. Reverse Words in a String III.csproj", "{99D2F012-94B9-4A27-92EC-B480A1CD14EE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MySQL", "MySQL", "{E0CACA1A-68AF-4C71-A4D9-6FC133FD7CEF}"
+	ProjectSection(SolutionItems) = preProject
+		175. Combine Two Tables.sql = 175. Combine Two Tables.sql
+		176. Second Highest Salary = 176. Second Highest Salary
+		177. Nth Highest Salary = 177. Nth Highest Salary
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
