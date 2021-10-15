@@ -7,29 +7,50 @@ namespace _8._String_to_Integer__atoi_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(MyAtoi("-42"));
+            Console.WriteLine(MyAtoi("  -42"));
         }
 
         public static int MyAtoi(string s)
         {
-            long.TryParse(s.Trim(),out long ss);
-            long test = long.Parse(Math.Pow(2, 31).ToString());
-            if(s[0]!=' ' && (s[0]!='-' && s[0]!='+' && !char.IsDigit(s[0])))
+            s = s.Trim();
+            bool is_pos = true;
+            bool has_sign = false;
+            bool has_digit = false;
+            long output = 0;
+            for (int i = 0; i < s.Length; i++)
             {
-                return 0;
+                if(s[i]== '-' || s[i]=='+')
+                {
+                    if(has_sign||has_digit)
+                    {
+                        break;
+                    }
+                    is_pos = s[i] == '+' ? true : false;
+                    has_sign = true;
+                    continue;
+                }
+
+                if(int.TryParse(s[i].ToString(),out int digits))
+                {
+                    output *= 10;
+                    output = is_pos ? output + digits : output - digits;
+
+                    if(output >=int.MaxValue)
+                    {
+                        return int.MaxValue;
+                    }
+                    else if(output <= int.MinValue)
+                    {
+                        return int.MinValue;
+                    }
+                    has_digit = true;
+                }
+                else
+                {
+                    break;
+                }
             }
-            else if(ss > test)
-            {
-                return Int32.Parse((test-1).ToString());
-            }
-            else if (ss < test * -1)
-            {
-                return Int32.Parse((test*-1 + 1).ToString());
-            }
-            s.Trim();
-            s = Regex.Replace(s, "[^0-9]", "");
-            Int32.TryParse(s, out int result);
-            return result;
+            return (int)output;
         }
     }
 }
