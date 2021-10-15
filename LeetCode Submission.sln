@@ -62,7 +62,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "283. Move Zeroes", "283. Mo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "167. Two Sum II - Input array is sorted", "167. Two Sum II - Input array is sorted\167. Two Sum II - Input array is sorted.csproj", "{192CFE1B-89EC-4146-AD5B-0D13D3480063}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "309. Best Time to Buy and Sell Stock with Cooldown", "309. Best Time to Buy and Sell Stock with Cooldown\309. Best Time to Buy and Sell Stock with Cooldown.csproj", "{E8069CB8-5D9E-4B6B-9B19-5E8E69F3ACE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "309. Best Time to Buy and Sell Stock with Cooldown", "309. Best Time to Buy and Sell Stock with Cooldown\309. Best Time to Buy and Sell Stock with Cooldown.csproj", "{E8069CB8-5D9E-4B6B-9B19-5E8E69F3ACE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "344. Reverse String", "344. Reverse String\344. Reverse String.csproj", "{2882A411-73A6-4F7E-8955-3472321A0CCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "557. Reverse Words in a String III", "557. Reverse Words in a String III\557. Reverse Words in a String III.csproj", "{99D2F012-94B9-4A27-92EC-B480A1CD14EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -182,6 +186,14 @@ Global
 		{E8069CB8-5D9E-4B6B-9B19-5E8E69F3ACE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8069CB8-5D9E-4B6B-9B19-5E8E69F3ACE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8069CB8-5D9E-4B6B-9B19-5E8E69F3ACE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2882A411-73A6-4F7E-8955-3472321A0CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2882A411-73A6-4F7E-8955-3472321A0CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2882A411-73A6-4F7E-8955-3472321A0CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2882A411-73A6-4F7E-8955-3472321A0CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D2F012-94B9-4A27-92EC-B480A1CD14EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D2F012-94B9-4A27-92EC-B480A1CD14EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D2F012-94B9-4A27-92EC-B480A1CD14EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D2F012-94B9-4A27-92EC-B480A1CD14EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
