@@ -71,8 +71,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MySQL", "MySQL", "{E0CACA1A-68AF-4C71-A4D9-6FC133FD7CEF}"
 	ProjectSection(SolutionItems) = preProject
 		175. Combine Two Tables.sql = 175. Combine Two Tables.sql
-		176. Second Highest Salary = 176. Second Highest Salary
-		177. Nth Highest Salary = 177. Nth Highest Salary
+		176. Second Highest Salary.SQL = 176. Second Highest Salary.SQL
+		177. Nth Highest Salary.sql = 177. Nth Highest Salary.sql
+		178. Rank Scores.sql = 178. Rank Scores.sql
 	EndProjectSection
 EndProject
 Global
