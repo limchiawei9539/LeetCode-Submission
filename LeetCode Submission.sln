@@ -78,7 +78,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MySQL", "MySQL", "{E0CACA1A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "123. Best Time to Buy and Sell Stock III", "123. Best Time to Buy and Sell Stock III\123. Best Time to Buy and Sell Stock III.csproj", "{07194831-AD71-4448-B52B-34B2A797F238}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "437. Path Sum III", "437. Path Sum III\437. Path Sum III.csproj", "{C1B88ACC-76F4-46EE-BC76-1711E269D381}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "437. Path Sum III", "437. Path Sum III\437. Path Sum III.csproj", "{C1B88ACC-76F4-46EE-BC76-1711E269D381}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "993. Cousins in Binary Tree", "993. Cousins in Binary Tree\993. Cousins in Binary Tree.csproj", "{300DF57C-A227-4414-ABF1-FD5BF44AE4D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "442. Find All Duplicates in an Array", "442. Find All Duplicates in an Array\442. Find All Duplicates in an Array.csproj", "{96BDF8E8-92C4-4094-9F65-146E98465AE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "496. Next Greater Element I", "496. Next Greater Element I\496. Next Greater Element I.csproj", "{550A05C4-5B47-411D-A8CF-A9826A638C75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -214,6 +220,18 @@ Global
 		{C1B88ACC-76F4-46EE-BC76-1711E269D381}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1B88ACC-76F4-46EE-BC76-1711E269D381}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1B88ACC-76F4-46EE-BC76-1711E269D381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{300DF57C-A227-4414-ABF1-FD5BF44AE4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{300DF57C-A227-4414-ABF1-FD5BF44AE4D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{300DF57C-A227-4414-ABF1-FD5BF44AE4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{300DF57C-A227-4414-ABF1-FD5BF44AE4D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96BDF8E8-92C4-4094-9F65-146E98465AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96BDF8E8-92C4-4094-9F65-146E98465AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96BDF8E8-92C4-4094-9F65-146E98465AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96BDF8E8-92C4-4094-9F65-146E98465AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{550A05C4-5B47-411D-A8CF-A9826A638C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550A05C4-5B47-411D-A8CF-A9826A638C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550A05C4-5B47-411D-A8CF-A9826A638C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550A05C4-5B47-411D-A8CF-A9826A638C75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
