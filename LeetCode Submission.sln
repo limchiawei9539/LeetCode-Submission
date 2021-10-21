@@ -86,7 +86,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "442. Find All Duplicates in
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "496. Next Greater Element I", "496. Next Greater Element I\496. Next Greater Element I.csproj", "{550A05C4-5B47-411D-A8CF-A9826A638C75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "151. Reverse Words in a String", "151. Reverse Words in a String\151. Reverse Words in a String.csproj", "{FD0661AE-55B2-4F27-9120-BFDA0AA51E25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "151. Reverse Words in a String", "151. Reverse Words in a String\151. Reverse Words in a String.csproj", "{FD0661AE-55B2-4F27-9120-BFDA0AA51E25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "380. Insert Delete GetRandom O(1)", "380. Insert Delete GetRandom O(1)\380. Insert Delete GetRandom O(1).csproj", "{FD6D29D8-E5EB-44B6-B7AC-C592284F4C60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -238,6 +240,10 @@ Global
 		{FD0661AE-55B2-4F27-9120-BFDA0AA51E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD0661AE-55B2-4F27-9120-BFDA0AA51E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD0661AE-55B2-4F27-9120-BFDA0AA51E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD6D29D8-E5EB-44B6-B7AC-C592284F4C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6D29D8-E5EB-44B6-B7AC-C592284F4C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6D29D8-E5EB-44B6-B7AC-C592284F4C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6D29D8-E5EB-44B6-B7AC-C592284F4C60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
